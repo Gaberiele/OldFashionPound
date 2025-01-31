@@ -1,0 +1,16 @@
+# Eclipse settings
+.settings
+
+# Compiled class files
+bin
+target
+
+# IDE specific files
+.classpath
+.project
+
+# Log files
+.log
+
+# Eclipse local repository
+.local
